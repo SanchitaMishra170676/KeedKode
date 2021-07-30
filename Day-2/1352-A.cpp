@@ -1,3 +1,4 @@
+// https://codeforces.com/contest/1352/problem/A
 #include <bits/stdc++.h>
 #define ll long long
 #define mod 1000000007
